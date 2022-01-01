@@ -1,5 +1,4 @@
 # Learn DirectX Raytracing Tutorials
-===============
 A project to learn DirectX Raytracing.
 
 ## Requirements
